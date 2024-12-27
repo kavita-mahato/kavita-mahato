@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)]
 <h1 align="center">Hi 👋, I'm Kavita Mahato</h1>
 <h3 align="center">Aspiring software developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://contentstatic.techgig.com/photo/77087595/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg">
+<img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-illustration-download-in-svg-png-gif-file-formats--female-freelancer-freelancing-lady-girl-employee-software-development-pack-design-illustrations-6200254.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavita-mahato&label=Profile%20views&color=0e75b6&style=flat" alt="kavita-mahato" /> </p>
 
