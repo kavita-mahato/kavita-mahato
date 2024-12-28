@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)]
+[![MasterHead](https://i.pinimg.com/736x/da/cf/35/dacf35263917739baff6805b21e61bf8.jpg)]
 <h1 align="center">Hi 👋, I'm Kavita Mahato</h1>
 <h3 align="center">Aspiring software developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-illustration-download-in-svg-png-gif-file-formats--female-freelancer-freelancing-lady-girl-employee-software-development-pack-design-illustrations-6200254.png">
