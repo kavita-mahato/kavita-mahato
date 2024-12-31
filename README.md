@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kavita__mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavita__mahato" height="30" width="40" /></a>
+<a href="https://twitter.com/kavitaa_mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavitaa_mahato" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kavita-mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavita-mahato" height="30" width="40" /></a>
-<a href="https://instagram.com/kavita_mahato_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavita_mahato_03" height="30" width="40" /></a>
+<a href="https://instagram.com/kavitaa_mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavitaa_mahato" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kavita_mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavita_mahato" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kavita_mahato_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavita_mahato_03" height="30" width="40" /></a>
 </p>
