@@ -1,4 +1,5 @@
 <!-- 🚀 Welcome Banner -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I’m+Kavita+Mahato+👋;IT+Student+@+UCET+Hazaribagh;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" alt="Typing SVG" />
 </p>
