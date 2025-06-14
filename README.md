@@ -72,20 +72,6 @@ I believe in turning learning into long-term value. My approach includes:
   
 ---
 
-## 🎯 2024–25 Roadmap
-
-- ✅ Strengthen Java, DSA & OOP foundations  
-- 🔐 Build scalable backend systems with authentication  
-- ⚛️ Develop full-stack apps using React + Next.js  
-- 🚀 Learn CI/CD, Docker, and deploy projects  
-- 🏆 Hackathons (2–3 MVPs)  
-- 💼 Remote internships  
-- 🌍 Open-source contributions  
-- 💡 Building personal brand
-
----
----
-
 ## 💬 Final Words
 
 > _“Code with purpose. Learn with intention. Grow with consistency.”_
