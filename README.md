@@ -7,82 +7,46 @@
 </p>
 
 ---
----
 
 ## 👋 About Me
 
-Hi there! I’m **Kavita Mahato**, a second semester Information Technology student at **UCET Hazaribagh**, fueled by an obsession with **learning by building**.
+Hello! I'm **Kavita Mahato**, a first-year BTech student majoring in **Information Technology** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional.
 
-Coming from Jharkhand, where tech resources aren’t abundant, I’ve learned to **thrive with intent, grit, and resourcefulness**. I'm not just chasing placements or certificates — I’m focused on mastering the core skills that create **real-world impact**.
-
-What makes me different?
-- I don’t follow tutorials blindly — I **deconstruct, build from scratch**, and **teach others**.
-- I treat every project like a mini startup — with problem-solving, scalability, and ownership in mind.
-- I value **clarity over hype**, **principles over shortcuts**, and **execution over theory**.
-
-If you're into building clean products, solving real problems, and leveling up relentlessly — we already share a mindset.
+My academic interests span across core programming, system-level thinking, and leveraging technology to improve my problem solving skills. I strive to excel in Software Development by strengthening my programming skills and applying best practices to solve real-world problems.
 
 ---
+
+# 💡 Technical Proficiencies
+
+### 🧑‍💻 Programming Languages
+- C  *(proficient)* -  My foundational language for understanding memory, pointers, and logic building.
+- C++  *(basic understading)*
+- Python - Strong foundation in fundamentals and control flow.
+- JAVA *(learning)*
+- JavaScript – For building dynamic user interfaces and handling web interactivity.
+
+### 🎨 Frontend Technologies
+- **HTML5** – Structuring modern web content with semantic tags.  
+- **CSS3** – Styling and layout techniques including Flexbox and Grid.  
+- **JavaScript (DOM & Events)** – Making static pages interactive and responsive.  
+
+### 🖥️ Backend Technologies *(Exploring)*
+
+- **Basic Node.js & Express.js** – Getting started with server-side development and APIs.  
+- **REST APIs (Intro)** – Understanding request/response architecture for client-server communication.  
+- **CLI Tools** – Using command-line for file manipulation and simple automation.
 ---
 
-## 🚀 Skills & Tech Stack
+# 🛠️ Tools & Tech Stack
 
-> My stack reflects a full-stack mindset — learn deeply, build fast, scale smart.
-
-### 🔧 Core Programming
-- **Java (Core + OOP)** – My foundation for DSA, object-oriented design, and logic building
-- **JavaScript (ES6+)** – Asynchronous flow, modern syntax, browser APIs, and beyond
-
-### 🌐 Frontend Development
-- **HTML5, CSS3, JavaScript** – Strong grasp on layout, responsive design, and interactivity
-- **React.js** – Component architecture, hooks, state management, and routing
-- **Next.js** – Server-side rendering (SSR), file-based routing, and SEO optimization
-
-### ⚙️ Backend Development
-- **Node.js + Express.js** – RESTful APIs, modular routing, middleware logic
-- **Authentication** – Secure JWT auth flows, hashed passwords with Bcrypt, token refresh
-- **MVC Folder Structure** – Organized, scalable backend codebase
-
-### 🗃️ Databases & Data Handling
-- **MongoDB + Mongoose** – Schema design, queries, aggregation pipelines
-- **JSON, Axios/Fetch** – Handling data in full-stack applications
-
-### 🧪 Debugging & Testing Tools
-- **Postman, Thunder Client** – API testing, headers, and response validation
-- **MongoDB Compass** – Visual data inspection and schema analysis
-
-### 🚀 Dev Tools & Workflow
-- **Git + GitHub** – Branching, version control, and clean commits
-- **VS Code** – Customized setup with extensions and theming for productivity
-- **Notion + Docs** – Organized learning, roadmaps, and technical documentation
-- **Linux CLI (Basics)** – For backend setup and local server control
+| Category         | Tools / Technologies                                          |
+|------------------|--------------------------------------------------------------|
+| **Code Editors**     | **VS Code** – My primary development environment. <br> **Replit** – For quick online prototyping and sharing code. |
+| **Version Control**  | **Git** – Tracking code history and managing changes.<br> **GitHub** – Hosting, sharing, and collaborating on projects. |
+| **Deployment**       | **GitHub Pages** – Hosting static web pages.<br> **Netlify (Learning)** – Exploring for frontend deployment and CI/CD. |
 
 ---
----
 
-## 💼 Featured Projects
-
-### 🔹 Web Dev Lab
-A growing collection of responsive UIs, interactive components, and polished landing pages.  
-**Learned**: CSS Grid, Flexbox, UI responsiveness.
-
-### 🔹 Java Mastery Projects
-A suite of practice Java apps solving real-world problems.  
-**Learned**: OOP patterns, exception handling, and clean architecture.
-
-### 🔹 DSA Tracker (GFG)
-A public log of my DSA grind.  
-**Learned**: Debugging under pressure, pattern recognition, time/space optimization.
-
-### 🔹 Secure REST API
-Private full-stack backend system with full JWT auth, protected routes, and MVC architecture.  
-**Learned**: Secure token flow, structured backend logic, scalable folder design.
-
-### 🔹 API Playground (Coming Soon)
-An API-first mini SaaS backend with complete Postman documentation.  
-**Goal**: Showcase clean and testable backend architecture.
-
----
 ---
 
 ## 📈 GitHub Stats
@@ -96,23 +60,16 @@ An API-first mini SaaS backend with complete Postman documentation.
 </p>
 
 ---
----
 
-## 🧠 My Learning Approach
+# 💼 Skill Building & Career Approach
 
-> "Learning is only real when it's tested through building."
+I believe in turning learning into long-term value. My approach includes:
 
-Here’s how I approach every new technology:
-
-1. **Learn the core** – Start from the docs, official guides, and source code if needed  
-2. **Apply immediately** – Build mini-projects or modules while learning  
-3. **Debug deeply** – Face the "why isn’t this working?" phase head-on  
-4. **Refactor and reflect** – Rebuild for scalability and clarity  
-5. **Share & teach** – Explain to others, blog, or demo on GitHub
-
-This loop helps me **truly internalize** concepts, not just memorize them. It's how I learned DSA, backend auth flows, and now front-end state management.
-
----
+- 🧠 **Concept Mastery** – Focus on strong fundamentals rather than shortcut trends  
+- 💻 **Project-Centered Learning** – Applying knowledge through real applications  
+- 📘 **Open Source & Collaboration** – Contribution to projects and hackathons  
+- 🎯 **Internship Readiness** – Preparing through hands-on coding and interview practice
+  
 ---
 
 ## 🎯 2024–25 Roadmap
@@ -130,6 +87,8 @@ This loop helps me **truly internalize** concepts, not just memorize them. It's 
 ---
 
 ## 💬 Final Words
+
+> _“Code with purpose. Learn with intention. Grow with consistency.”_
 
 Thanks for stopping by!  
 I’m not just coding for the sake of it — I’m here to **build meaningful projects, share knowledge openly, and grow relentlessly**.  
