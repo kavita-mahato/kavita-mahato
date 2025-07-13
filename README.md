@@ -39,11 +39,19 @@ My academic interests span across core programming, system-level thinking, and l
 
 # 🛠️ Tools & Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit" />
+</p>
+
+<div align="center">
+
 | Category         | Tools / Technologies                                          |
 |------------------|--------------------------------------------------------------|
 | **Code Editors**     | **VS Code** – My primary development environment. <br> **Replit** – For quick online prototyping and sharing code. |
 | **Version Control**  | **Git** – Tracking code history and managing changes.<br> **GitHub** – Hosting, sharing, and collaborating on projects. |
 | **Deployment**       | **GitHub Pages** – Hosting static web pages.<br> **Netlify (Learning)** – Exploring for frontend deployment and CI/CD. |
+
+</div>
 
 ---
 
@@ -77,6 +85,16 @@ I believe in turning learning into long-term value. My approach includes:
 - 📘 **Open Source & Collaboration** – Contribution to projects and hackathons  
 - 🎯 **Internship Readiness** – Preparing through hands-on coding and interview practice
 
+---
+## 🧩 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://github.com/kavita-mahato" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="kavitamahato0835@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 ---
 
 ## 💬 Final Words
