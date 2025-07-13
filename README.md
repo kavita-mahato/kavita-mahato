@@ -22,7 +22,7 @@ My academic interests span across core programming, system-level thinking, and l
 - C  *(proficient)* -  My foundational language for understanding memory, pointers, and logic building.
 - C++  *(basic understading)*
 - Python - Strong foundation in fundamentals and control flow.
-- JAVA *(learning)*
+- JAVA (Actively learning with DSA focus) – Developing problem-solving skills using OOP and core Java concepts.
 - JavaScript – For building dynamic user interfaces and handling web interactivity.
 
 ### 🎨 Frontend Technologies
@@ -47,6 +47,13 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
 
+## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/learning-DSA%20in%20Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/building-Full%20Stack%20Projects-orange?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
+</p>
+
 ---
 
 ## 📈 GitHub Stats
@@ -69,7 +76,7 @@ I believe in turning learning into long-term value. My approach includes:
 - 💻 **Project-Centered Learning** – Applying knowledge through real applications  
 - 📘 **Open Source & Collaboration** – Contribution to projects and hackathons  
 - 🎯 **Internship Readiness** – Preparing through hands-on coding and interview practice
-  
+
 ---
 
 ## 💬 Final Words
