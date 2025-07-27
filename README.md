@@ -19,11 +19,11 @@ My academic interests span across core programming, system-level thinking, and l
 # 💡 Technical Proficiencies
 
 ### 🧑‍💻 Programming Languages
+- JAVA (Actively learning with DSA focus) – Developing problem-solving skills using OOP and core Java concepts.
 - C  *(proficient)* -  My foundational language for understanding memory, pointers, and logic building.
 - C++  *(basic understading)*
-- Python - Strong foundation in fundamentals and control flow.
-- JAVA (Actively learning with DSA focus) – Developing problem-solving skills using OOP and core Java concepts.
 - JavaScript – For building dynamic user interfaces and handling web interactivity.
+- Python - Strong foundation in fundamentals and control flow.
 
 ### 🎨 Frontend Technologies
 - **HTML5** – Structuring modern web content with semantic tags.  
