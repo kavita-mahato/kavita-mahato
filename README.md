@@ -64,14 +64,30 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br />
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="825em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavita-mahato&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavita-mahato&show_icons=true&theme=radical&hide_border=true" width="400em" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavita-mahato&theme=radical&hide_border=true" width="400em" />
+</td>
+</tr>
+</table>
+</br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavita-mahato&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavita-mahato&theme=radical&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita-mahato&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita-mahato&layout=compact&theme=radical&hide_border=true" width="420em" />
 </p>
 
 ---
