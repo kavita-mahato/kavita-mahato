@@ -89,9 +89,6 @@ My academic interests span across core programming, system-level thinking, and l
 <table width="100%" align="center">
 <tr>
 <td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavita-mahato&theme=radical&utcOffset=5" width="400em" />
-</td>
-<td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita-mahato&layout=compact&theme=radical&hide_border=true" width="400em" />
 </td>
 </tr>
