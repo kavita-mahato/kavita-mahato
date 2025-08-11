@@ -54,6 +54,21 @@ My academic interests span across core programming, system-level thinking, and l
 </div>
 
 ---
+  
+## 📌 Coding Profiles
+<div align="center">
+
+| Platform | Description |
+|----------|-------------|
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30"/><br><sub>[**kavita_mahato**](https://geeksforgeeks.org/user/kavita_mahato/)</sub></p> | **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/kavita-mahato/)** <br> - Strengthening foundational DSA concepts in Java <br> - Exploring problem-solving techniques |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/><br><sub>[**kavita-mahato**](https://leetcode.com/kavita-mahato/)</sub></p> | **[LeetCode](https://leetcode.com/kavita-mahato/)** <br> - Practicing Data Structures & Algorithms problems using Java <br> - Focus on writing clean and optimized solutions |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="50"/><br><sub>[**kavita_mahato**](https://www.codechef.com/users/kavita_mahato)</sub></p> | **[CodeChef](https://www.codechef.com/users/kavita_mahato)** <br> - Practicing JavaScript programming <br> - Focused on improving coding skills |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="30"/><br><sub>[**kavita_mahato**](https://www.hackerrank.com/kavita_mahato)</sub></p> | **[HackerRank](https://www.hackerrank.com/kavita_mahato)** <br> - Solving Java programming challenges <br> - Building strong DSA foundations |
+| <p align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/><br><sub>[**kavita-mahato**](https://github.com/kavita-mahato)</sub></p> | **[GitHub](https://github.com/kavita-mahato)** <br> - Hosting Java-based DSA solution repositories <br> - Showcasing projects and documenting my learning journey |
+
+</div>
+
+---
 
 ## 🎯 Current Focus
 
