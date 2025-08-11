@@ -102,9 +102,13 @@ My academic interests span across core programming, system-level thinking, and l
 </tr>
 </table>
 
-<p align="center">
+<table width="100%" align="center">
+<tr>
+<td>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavita-mahato&theme=radical" alt="Profile Summary" width="100%"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
