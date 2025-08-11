@@ -70,13 +70,6 @@ My academic interests span across core programming, system-level thinking, and l
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="825em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavita-mahato&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<tr>
-<td>
   <img src="https://github-readme-stats.vercel.app/api?username=kavita-mahato&show_icons=true&theme=radical&hide_border=true" width="100%" />
 </td>
 <td>
@@ -93,6 +86,17 @@ My academic interests span across core programming, system-level thinking, and l
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavita-mahato&theme=radical" alt="Profile Summary" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavita-mahato&theme=react-dark" width="100%"/>
+</p>
+
 
 ---
 
