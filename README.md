@@ -87,7 +87,7 @@ My academic interests span across core programming, system-level thinking, and l
 </br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita-mahato&layout=compact&theme=radical&hide_border=true" width="420em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita-mahato&layout=compact&theme=radical&hide_border=true" width="400em" />
 </p>
 
 ---
