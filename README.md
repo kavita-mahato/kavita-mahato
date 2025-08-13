@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Kavita Mahato**, a first-year BTech student majoring in **Information Technology** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional.
+Hello! I'm **Kavita Mahato**, a first-year B.Tech. student majoring in **Information Technology** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional.
 
 My academic interests span across core programming, system-level thinking, and leveraging technology to improve my problem solving skills. I strive to excel in Software Development by strengthening my programming skills and applying best practices to solve real-world problems.
 
