@@ -8,7 +8,7 @@
 
 ---
 
- 👋 About Me
+## 👋 About Me
 
 Hello! I'm **Kavita Mahato**, a first-year B.Tech. student majoring in **Information Technology** at UCET, VBU. I’m passionate about building efficient, scalable systems and constantly evolving as a tech professional.
 
@@ -16,28 +16,28 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
 
- 💡 Technical Proficiencies
+## 💡 Technical Proficiencies
 
- 🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Languages
 - JAVA (Actively learning with DSA focus) – Developing problem-solving skills using OOP and core Java concepts.
 - C  *(proficient)* -  My foundational language for understanding memory, pointers, and logic building.
 - C++  *(basic understading)*
 - JavaScript – For building dynamic user interfaces and handling web interactivity.
 - Python - Strong foundation in fundamentals and control flow.
 
- 🎨 Frontend Technologies
+### 🎨 Frontend Technologies
 - **HTML5** – Structuring modern web content with semantic tags.  
 - **CSS3** – Styling and layout techniques including Flexbox and Grid.  
 - **JavaScript (DOM & Events)** – Making static pages interactive and responsive.  
 
- 🖥️ Backend Technologies *(Exploring)*
+## 🖥️ Backend Technologies *(Exploring)*
 
 - **Basic Node.js & Express.js** – Getting started with server-side development and APIs.  
 - **REST APIs (Intro)** – Understanding request/response architecture for client-server communication.  
 - **CLI Tools** – Using command-line for file manipulation and simple automation.
 ---
 
- 🛠️ Tools & Tech Stack
+## 🛠️ Tools & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,express,git,github,vscode,replit" />
@@ -55,7 +55,7 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
   
- 📌 Coding Profiles
+ ## 📌 Coding Profiles
 <div align="center">
 
 | Platform | Description |
@@ -70,7 +70,7 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
 
- 🎯 Current Focus
+ ## 🎯 Current Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-DSA%20in%20Java-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
@@ -79,7 +79,7 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br />
 <table width="100%" align="center">
@@ -119,7 +119,7 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
 
- 💼 Skill Building & Career Approach
+## 💼 Skill Building & Career Approach
 
 I believe in turning learning into long-term value. My approach includes:
 
@@ -129,7 +129,7 @@ I believe in turning learning into long-term value. My approach includes:
 - 🎯 **Internship Readiness** – Preparing through hands-on coding and interview practice
 
 ---
- 🧩 Let's Connect & Collaborate!
+## 🧩 Let's Connect & Collaborate!
 
 <p align="center">
   <a href="https://github.com/kavita-mahato" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -139,7 +139,7 @@ I believe in turning learning into long-term value. My approach includes:
 </p>
 ---
 
- 💬 Final Words
+## 💬 Final Words
 
 > _“Code with purpose. Learn with intention. Grow with consistency.”_
 
