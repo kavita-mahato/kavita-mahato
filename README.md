@@ -1,4 +1,5 @@
 <!-- 🚀 Welcome Banner -->
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=250&color=ff4ca6&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Kavita+Mahato+🎓;IT+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+Software+Developer+📱;Cloud+Computing+Explorer+☁️" 
