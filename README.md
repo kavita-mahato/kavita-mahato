@@ -36,6 +36,7 @@ My academic interests span across core programming, system-level thinking, and l
 - **Basic Node.js & Express.js** – Getting started with server-side development and APIs.  
 - **REST APIs (Intro)** – Understanding request/response architecture for client-server communication.  
 - **CLI Tools** – Using command-line for file manipulation and simple automation.
+  
 ---
 
 ## 🛠️ Tools & Tech Stack
