@@ -51,7 +51,7 @@ My academic interests span across core programming, system-level thinking, and l
 |------------------|--------------------------------------------------------------|
 | **Code Editors**     | **VS Code** – My primary development environment. <br> **Replit** – For quick online prototyping and sharing code. |
 | **Version Control**  | **Git** – Tracking code history and managing changes.<br> **GitHub** – Hosting, sharing, and collaborating on projects. |
-| **Deployment**       | **GitHub Pages** – Hosting static web pages.<br> **Netlify (Learning)** – Exploring for frontend deployment and CI/CD. |
+| **Deployment**       | **GitHub Pages** – Hosting static web pages.<br> **Netlify** – Exploring for frontend deployment and CI/CD. |
 
 </div>
 
