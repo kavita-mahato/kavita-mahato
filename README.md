@@ -1,11 +1,12 @@
 <!-- 🚀 Welcome Banner -->
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=250&color=ff4ca6&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Kavita+Mahato+🎓;IT+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+Software+Developer+📱;Cloud+Computing+Explorer+☁️" 
-    alt="Typing SVG" 
-  />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavita%20Mahato&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20@%20UCET%20Hazaribagh%20%7C%20Passionate%20Tech%20Explorer%20&descAlignY=60&descAlign=center" alt="Welcome Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=250&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🧠+Java+%26+DSA+Learner;🌐+Full-Stack+Web+Dev+Enthusiast;📱+Aspiring+Software+Developer;☁️+Cloud+Computing+Explorer" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -60,13 +61,12 @@ My academic interests span across core programming, system-level thinking, and l
  ## 📌 Coding Profiles
 <div align="center">
 
-| Platform | Description |
-|----------|-------------|
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30"/><br><sub>[**kavita_mahato**](https://geeksforgeeks.org/user/kavita_mahato/)</sub></p> | **[GeeksforGeeks](https://geeksforgeeks.org/user/kavita_mahato/)** <br> - Strengthening foundational DSA concepts in Java <br> - Exploring problem-solving techniques |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/><br><sub>[**kavita-mahato**](https://leetcode.com/kavita-mahato/)</sub></p> | **[LeetCode](https://leetcode.com/kavita-mahato/)** <br> - Practicing Data Structures & Algorithms problems using Java <br> - Focus on writing clean and optimized solutions |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="50"/><br><sub>[**kavita_mahato**](https://www.codechef.com/users/kavita_mahato)</sub></p> | **[CodeChef](https://www.codechef.com/users/kavita_mahato)** <br> - Practicing JavaScript programming <br> - Focused on improving coding skills |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="30"/><br><sub>[**kavita_mahato**](https://www.hackerrank.com/kavita_mahato)</sub></p> | **[HackerRank](https://www.hackerrank.com/kavita_mahato)** <br> - Solving Java programming challenges <br> - Building strong DSA foundations |
-| <p align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/><br><sub>[**kavita-mahato**](https://github.com/kavita-mahato)</sub></p> | **[GitHub](https://github.com/kavita-mahato)** <br> - Hosting Java-based DSA solution repositories <br> - Showcasing projects and documenting my learning journey |
+| Platform | Profile | Activity |
+|----------|---------|----------|
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/><br><sub>[**GeeksforGeeks**](https://geeksforgeeks.org/user/kavita_mahato/)</sub></p> | **[kavita_mahato](https://geeksforgeeks.org/user/kavita_mahato/)**| Strengthening DSA concepts in Java |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/><br><sub>[**LeetCode**](https://leetcode.com/kavita-mahato/)</sub></p> | **[kavita-mahato](https://leetcode.com/kavita-mahato/)**| Practicing DSA problems using Java |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" width="50"/><br><sub>[**CodeChef**](https://www.codechef.com/users/kavita_mahato)</sub></p> | **[kavita_mahato](https://www.codechef.com/users/kavita_mahato)**| Practicing JavaScript & coding skills |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="35"/><br><sub>[**HackerRank**](https://www.hackerrank.com/kavita_mahato)</sub></p> | **[kavita_mahato](https://www.hackerrank.com/kavita_mahato)**| Solving Java programming challenges |
 
 </div>
 
