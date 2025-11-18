@@ -114,13 +114,6 @@ My academic interests span across core programming, system-level thinking, and l
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavita-mahato&theme=react-dark" width="100%"/>
-</p>
-
-
----
-
 ## 💼 Skill Building & Career Approach
 
 I believe in turning learning into long-term value. My approach includes:
