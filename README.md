@@ -1,7 +1,7 @@
 <!-- 🚀 Welcome Banner -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavita%20Mahato&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20@%20UCET%20Hazaribagh%20%7C%20Passionate%20Tech%20Explorer%20&descAlignY=60&descAlign=center" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Kavita%20Mahato&fontSize=60&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20@%20UCET%20Hazaribagh%20%7C%20Passionate%20Tech%20Explorer%20&descAlignY=60&descAlign=center" alt="Welcome Banner" />
 </div>
 
 <div align="center">
